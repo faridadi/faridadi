@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a skilled Mobile Developer proficient in Java, Kotlin, and Flutter Framework, with strong analytical skills and effective communication abilities, eager to continue learning
+As a standout in both mobile app development and AI engineering, I specialize in computer vision. My experience includes crafting engaging UI/UX designs and implementing them seamlessly, along with developing AI-driven services.
 
 
 ## 🌐 Socials:
