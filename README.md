@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a standout in both mobile app development and AI engineering, I specialize in computer vision. My experience includes crafting engaging UI/UX designs and implementing them seamlessly, along with developing AI-driven services.
+As a versatile Fullstack Data & Machine Learning Engineer, I specialize in building scalable data systems and delivering intelligent AI solutions. My work spans from developing modern data pipelines and lakehouse architectures to crafting OCR, face recognition, and credit scoring models.
 
 
 ## 🌐 Socials:
